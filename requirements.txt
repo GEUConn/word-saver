@@ -1,0 +1,10 @@
+keyboard
+pyperclip
+openpyxl
+deep-translator
+langdetect
+eng-to-ipa
+pypinyin
+plyer
+pystray
+Pillow
